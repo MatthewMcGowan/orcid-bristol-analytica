@@ -1,0 +1,270 @@
+{
+  "message-version": "1.2",
+  "orcid-profile": {
+    "orcid": null,
+    "orcid-id": null,
+    "orcid-identifier": {
+      "value": null,
+      "uri": "http://orcid.org/0000-0001-7024-3727",
+      "path": "0000-0001-7024-3727",
+      "host": "orcid.org"
+    },
+    "orcid-deprecated": null,
+    "orcid-preferences": {
+      "locale": "fr"
+    },
+    "orcid-history": {
+      "creation-method": "Direct",
+      "completion-date": null,
+      "submission-date": {
+        "value": 1442826333044
+      },
+      "last-modified-date": {
+        "value": 1505661803116
+      },
+      "claimed": {
+        "value": true
+      },
+      "source": null,
+      "deactivation-date": null,
+      "verified-email": {
+        "value": true
+      },
+      "verified-primary-email": {
+        "value": true
+      },
+      "visibility": null
+    },
+    "orcid-bio": {
+      "personal-details": {
+        "given-names": {
+          "value": "Jonathan",
+          "visibility": null
+        },
+        "family-name": {
+          "value": "Schuite",
+          "visibility": null
+        },
+        "credit-name": null,
+        "other-names": null
+      },
+      "biography": null,
+      "researcher-urls": {
+        "researcher-url": [
+          {
+            "url-name": {
+              "value": "LinkedIn"
+            },
+            "url": {
+              "value": "https://fr.linkedin.com/in/jonathanschuite"
+            }
+          }
+        ],
+        "visibility": "public"
+      },
+      "contact-details": {
+        "email": null,
+        "address": {
+          "country": {
+            "value": "FR",
+            "visibility": "public"
+          }
+        }
+      },
+      "keywords": {
+        "keyword": [
+          {
+            "value": "Heterogeneous natural reservoirs"
+          },
+          {
+            "value": "hydrogeodesy"
+          },
+          {
+            "value": "hydrogeology"
+          },
+          {
+            "value": "tiltmeters"
+          }
+        ],
+        "visibility": "public"
+      },
+      "external-identifiers": null,
+      "delegation": null,
+      "scope": null
+    },
+    "orcid-activities": {
+      "affiliations": {
+        "affiliation": [
+          {
+            "type": "employment",
+            "department-name": "Géosciences Rennes",
+            "role-title": "PhD student",
+            "start-date": {
+              "year": {
+                "value": "2013"
+              },
+              "month": {
+                "value": "11"
+              },
+              "day": {
+                "value": "01"
+              }
+            },
+            "end-date": null,
+            "organization": {
+              "name": "Université de Rennes 1",
+              "address": {
+                "city": "Rennes",
+                "region": "Bretagne",
+                "country": "FR"
+              },
+              "disambiguated-organization": {
+                "disambiguated-organization-identifier": "27079",
+                "disambiguation-source": "RINGGOLD"
+              }
+            },
+            "source": {
+              "source-orcid": {
+                "value": null,
+                "uri": "http://orcid.org/0000-0001-7024-3727",
+                "path": "0000-0001-7024-3727",
+                "host": "orcid.org"
+              },
+              "source-client-id": null,
+              "source-name": {
+                "value": "Jonathan Schuite"
+              },
+              "source-date": {
+                "value": 1442826771532
+              }
+            },
+            "created-date": {
+              "value": 1442826771532
+            },
+            "last-modified-date": {
+              "value": 1442826771532
+            },
+            "visibility": "public",
+            "put-code": "1189075"
+          },
+          {
+            "type": "education",
+            "department-name": null,
+            "role-title": "Master degree in hydrology - hydrogeology (year 1)",
+            "start-date": {
+              "year": {
+                "value": "2011"
+              },
+              "month": null,
+              "day": null
+            },
+            "end-date": {
+              "year": {
+                "value": "2012"
+              },
+              "month": null,
+              "day": null
+            },
+            "organization": {
+              "name": "Uppsala Universitet Institutionen för geovetenskaper",
+              "address": {
+                "city": "Uppsala",
+                "region": null,
+                "country": "SE"
+              },
+              "disambiguated-organization": {
+                "disambiguated-organization-identifier": "225266",
+                "disambiguation-source": "RINGGOLD"
+              }
+            },
+            "source": {
+              "source-orcid": {
+                "value": null,
+                "uri": "http://orcid.org/0000-0001-7024-3727",
+                "path": "0000-0001-7024-3727",
+                "host": "orcid.org"
+              },
+              "source-client-id": null,
+              "source-name": {
+                "value": "Jonathan Schuite"
+              },
+              "source-date": {
+                "value": 1442827882532
+              }
+            },
+            "created-date": {
+              "value": 1442827882532
+            },
+            "last-modified-date": {
+              "value": 1442827882532
+            },
+            "visibility": "public",
+            "put-code": "1189135"
+          },
+          {
+            "type": "education",
+            "department-name": null,
+            "role-title": "Bachelor's degree in geosciences",
+            "start-date": {
+              "year": {
+                "value": "2008"
+              },
+              "month": null,
+              "day": null
+            },
+            "end-date": {
+              "year": {
+                "value": "2011"
+              },
+              "month": null,
+              "day": null
+            },
+            "organization": {
+              "name": "Université de Strasbourg",
+              "address": {
+                "city": "Strasbourg",
+                "region": "Alsace",
+                "country": "FR"
+              },
+              "disambiguated-organization": {
+                "disambiguated-organization-identifier": "27083",
+                "disambiguation-source": "RINGGOLD"
+              }
+            },
+            "source": {
+              "source-orcid": {
+                "value": null,
+                "uri": "http://orcid.org/0000-0001-7024-3727",
+                "path": "0000-0001-7024-3727",
+                "host": "orcid.org"
+              },
+              "source-client-id": null,
+              "source-name": {
+                "value": "Jonathan Schuite"
+              },
+              "source-date": {
+                "value": 1442827964619
+              }
+            },
+            "created-date": {
+              "value": 1442827964619
+            },
+            "last-modified-date": {
+              "value": 1442827964619
+            },
+            "visibility": "public",
+            "put-code": "1189141"
+          }
+        ]
+      },
+      "orcid-works": null,
+      "funding-list": null
+    },
+    "orcid-internal": null,
+    "type": "user",
+    "group-type": null,
+    "client-type": null
+  },
+  "orcid-search-results": null,
+  "error-desc": null
+}
